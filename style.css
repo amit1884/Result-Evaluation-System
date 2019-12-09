@@ -1,0 +1,187 @@
+
+nav{
+    background-color:mediumpurple;
+}
+.navl{
+    color:white;
+}
+.navbar-nav li{
+    float:right;
+}
+#jee{
+    font-size:40px;
+    color:blue;
+    font-family:'times new roman',sans-serif;
+}
+.footer {
+    position:relative;
+    left:0;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height:auto;
+    color:white;
+    margin-top:200px;
+    background-color:rgb(75, 115, 156);
+  }
+.about-main{
+    border:2px solid mediumpurple;
+    border-radius:10px;
+    font-family:'times new roman',sans-serif;
+    /* margin:20px; */
+    padding:10px;
+}
+.mrq-notice{
+    width:100%;
+    border:2px solid mediumpurple;
+    border-radius:10px;
+    margin:5px 0;
+    padding:10px;
+    height:335px;
+    font-family:'times new roman',sans-serif;
+    color:mediumspringgreen;
+    overflow:hidden;
+}
+.mrq-notice li{
+    color:purple;
+    padding:5px;
+    font-size:20px;
+    list-style:none;
+}
+.about-main p{
+    color:rgb(7, 110, 105);
+    font-size:20px;
+}
+.login{
+    /* width:80%; */
+    /* height:320px; */
+    padding:5px;
+    color:mediumpurple;
+    font-size:20px;
+    font-family:'times new roman',sans-serif;
+    border:2px solid mediumpurple;
+    border-radius:10px;
+}
+#log-head{
+    margin:10px;
+    padding:10px;
+    color:purple;
+}
+.login .text-box{
+    width:90%;
+    padding:10px;
+    margin:15px;
+    border-radius:20px;
+    outline:none;
+    border:1px solid lightseagreen;
+}
+.login .text-box:hover{
+    border:2px solid limegreen;
+    border-radius:0;
+    transition:.5s;
+}
+/*marks*/
+.marks{
+    width:430px;
+    height:470px;
+    padding:10px;
+    margin:5px;
+    color:mediumpurple;
+    font-size:20px;
+    font-family:'times new roman',sans-serif;
+    border:2px solid mediumpurple;
+    border-radius:10px;
+}
+#log-head{
+    margin:10px;
+    padding:10px;
+    color:purple;
+}
+.marks .text-box{
+    width:90%;
+    padding:10px;
+    margin:15px;
+    border-radius:20px;
+    outline:none;
+    border:1px solid lightseagreen;
+}
+.marks .text-box:hover{
+    border:2px solid limegreen;
+    border-radius:0;
+    transition:.5s;
+}
+/*signup*/
+.signup{
+    width:auto;
+    height:auto;
+    /* margin:0 15px ; */
+    color:brown;;
+    font-size:20px;
+    font-family:'times new roman',sans-serif;
+    border:1px solid mediumpurple;
+    border-radius:10px;
+    margin-bottom:10px;
+    padding:10px;
+}
+#signh{
+    color:purple;
+    font-size:50px;
+}
+.ltext{
+    float:left;
+    margin:10px;
+    padding:3px;
+}
+.rtext{
+    float:right;
+    margin:15px;
+    padding:3px;
+    height:10%;
+    border:1px solid orange;
+}
+.field{
+    margin:10px;
+    padding:10px;
+}
+.wrapper{
+    width:40%;
+    position: absolute;
+    top:20%;
+    left:30%;
+    border:2px solid lime;
+    border-radius:10px;
+}
+.main-table{
+    width:100%;
+    margin:20px;
+    padding:20px;
+}
+td{
+  
+  margin:5px;
+  padding:5px;
+  font-size:20px;  
+  font-family:'times new roman',sans-serif;
+    text-transform: uppercase;
+}
+.l-text{
+    color:maroon;
+}
+.r-text{
+    color:darkorange;
+}
+
+/*admit card */
+.admitcard{
+    width:100%;
+    height:auto;
+    padding:15px;
+    border:2px solid mediumpurple;
+    border-radius:10px;
+}
+/*conatct*/
+#con-info p{
+    font-size:40px;
+    color:lightseagreen;
+    font-family:Arial, Helvetica, sans-serif;
+}
